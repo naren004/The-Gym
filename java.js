@@ -1,5 +1,5 @@
 function home(){
     console.log()
-    window.location.href="file:///S:/html/GYM/ww.html"
+    window.location.href="./ww.html"
     // alert("click")
 }
